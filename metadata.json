@@ -1,0 +1,6 @@
+{
+  "name": "Zaffran & Ember — Royal Awadhi & North Indian Dining",
+  "description": "Single-page, mobile-first restaurant website for Zaffran & Ember in Mumbai featuring an interactive menu, direct WhatsApp ordering, free table reservations, gallery lightbox, and dark/light mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
